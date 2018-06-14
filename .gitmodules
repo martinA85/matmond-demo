@@ -1,0 +1,4 @@
+[submodule "DamAbgrall/matmond"]
+	path = DamAbgrall/matmond
+	url = git@github.com:DamAbgrall/matmond.git
+	branch = master
